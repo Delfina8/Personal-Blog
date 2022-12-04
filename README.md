@@ -18,7 +18,10 @@ Personal blog project developed at Generation Brasil, this will be a Full Stack 
 - MySQL
 
 ## Front-end
-- Coming soon 
+Repository Link: https://github.com/Delfina8/personalBlogReact
+Blog: blogjornadadev.netlify.app
+![image](https://i.postimg.cc/52JSSrrd/3.jpg)
+![image](https://i.postimg.cc/7ZNMsVvC/2.jpg)
 
 
 # Author
