@@ -19,7 +19,8 @@ Personal blog project developed at Generation Brasil, this will be a Full Stack 
 
 ## Front-end
 Repository Link: https://github.com/Delfina8/personalBlogReact
-Blog: blogjornadadev.netlify.app
+Blog: https://blogjornadadev.netlify.app/login
+
 ![image](https://i.postimg.cc/52JSSrrd/3.jpg)
 ![image](https://i.postimg.cc/7ZNMsVvC/2.jpg)
 
